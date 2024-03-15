@@ -1,5 +1,4 @@
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -18,9 +17,13 @@
 
 <div align="center">
   
-![giphy](https://github.com/Suzx057/Suzx057/assets/97391235/9082eebe-a63f-4698-a9f4-f5c409e9d0a9)
+
+![giphy (1)](https://github.com/Suzx057/Suzx057/assets/97391235/daaab438-3466-4503-b437-2a73a95b94bf)
+
 
 </div>
+
+
 
 
 
