@@ -32,7 +32,7 @@
 
 ---
 
-### :woman_technologist: About Me 
+### :woman_technologist: About Me :
 
 - :zap: I am a Thrid year Computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at KMUTNB.
   
